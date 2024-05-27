@@ -1,0 +1,20 @@
+button {
+    padding: 15px 25px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.decrement {
+    background-color: rgb(252, 114, 114);
+}
+
+.reset {
+    background-color: rgb(220, 242, 245);
+    color: black;
+}
+
+.increment {
+    background-color: rgb(145, 253, 166);
+    color: black;
+}
